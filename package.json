@@ -1,0 +1,24 @@
+{
+  "name": "alab-308a-promises-async-await",
+  "version": "1.0.0",
+  "description": "working with async await and promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homdahal997/LAB-Promises-Async-Await.git"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "promises"
+  ],
+  "author": "Hom Dahal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/homdahal997/LAB-Promises-Async-Await/issues"
+  },
+  "homepage": "https://github.com/homdahal997/LAB-Promises-Async-Await#readme"
+}
