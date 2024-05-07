@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "working with async await and promises",
   "main": "index.js",
+  "type": "module",
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
