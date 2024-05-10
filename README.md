@@ -1,4 +1,4 @@
-# Promises and async/await
+# Promises and async/await lab
 
 Fetching user data from multiple databases.
 
